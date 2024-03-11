@@ -1,0 +1,6 @@
+
+^#Object of the Game#
+
+The object of the game is simple. Try to get the green ball past the computer's paddle five times. After you have done it five times, you win the game.
+
+This might sound simple at first, but don't get your pride up too much. The computer has three different skill levels, easy, medium, and hard. You can't call yourself a PyPong champion until you beat the computer in all three levels.

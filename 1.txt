@@ -1,0 +1,4 @@
+
+^# Who am I?#
+
+When you play the game, your paddle is on the right. You can also see on the top of the screen which side is your's and which is the computer's. Don't let the ball get passed your side!

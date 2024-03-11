@@ -1,0 +1,10 @@
+
+^#How to Score a Point#
+
+|Getting a Point|
+To score a point, you need to get the green ball past the computer's paddle. Once you do, you get a point! Your score will update on the screen. If the computer gets the green ball past your paddle, then it's score will update on the screen. Once the ball gets past someones paddle, then the ball will be placed in the center, and launched in a random direction.
+
+---
+
+|Winning the Game|
+If you score five points before the computer does, you win the game! Some text will pop up indicating that you won. However, if the computer scores fives points before you do, you lose the game! Some text will pop up indicating that you lost.

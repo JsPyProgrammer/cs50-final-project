@@ -1,0 +1,10 @@
+
+^#How to Move#
+
+|Keys to press|
+To move your paddle up, press on the $UP$ key. To move your paddle down, press on the $DOWN$ key.
+
+---
+
+|Speed of the ball|
+Your paddle can change the speed of the ball. If the ball is moving up, and you hit the ball while moving up, then the ball starts moving faster. It's the same vice-versa. However, if the ball is moving up, and you hit the ball while moving down, the ball starts moving slower. It's the same vice-versa.
